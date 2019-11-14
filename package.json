@@ -1,0 +1,14 @@
+{
+  "name": "romannum",
+  "version": "1.0.0",
+  "description": "Simple cli app for converting roman numerals to decimal",
+  "main": "bin/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jules",
+  "license": "ISC",
+  "bin": {
+    "roman": "./bin/index.js"
+  }
+}
