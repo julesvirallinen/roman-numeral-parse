@@ -3,6 +3,6 @@ A quick node script that validates and parses roman numerals
 
 Usage 
 
-`git init`
+`npm init`
 
 `node . VI`
